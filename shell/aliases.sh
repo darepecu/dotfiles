@@ -28,3 +28,12 @@ alias i.='(idea $PWD &>/dev/null &)'
 alias c.='(code $PWD &>/dev/null &)'
 alias o.='open .'
 alias up='dot package update_all'
+
+# Darepecu Alias
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias ..='cd ..'
+alias ghub='cd /home/lenovo/Documentos/Github/Monokera'
+alias bec='bundle exec cucumber'
+alias dc='dot docker connect'
